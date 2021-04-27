@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rajanqa
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning cpp
